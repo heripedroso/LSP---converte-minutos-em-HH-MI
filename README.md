@@ -1,7 +1,7 @@
 # LSP---Converte-minutos-em-HH-MM
 Função helper que converte número de minutos em uma string no formato HH:MI
 
-
+```
 @==============================================================================@
 Definir Funcao converteMinutosEmHHMI(Numero nMinutos);
 Definir Alfa aHorasMinutos;  @ Variável de saída. @
@@ -31,3 +31,4 @@ Funcao converteMinutosEmHHMI(Numero nMinutos);
      }
 };
 @==============================================================================@
+```
